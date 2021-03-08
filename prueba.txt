@@ -1,0 +1,10 @@
+Canal: IBS
+-Validación en campo comisión: Este campo no debe de estar vacio de lo contrario se mostrara un mensaje de error.
+-Validación en campo factor: Este campo solo debe de aceptar los datos que indica la pantalla de ayuda la cual se muestra al presionar F10 sobre el campo.
+-Validación en campo monto: Este campo debe de tener un valor mayor a cero de lo contrario se mostrara un mensaje de error.
+-Validación en campo frecuencia: Este campo solo debe de aceptar los datos que indica la pantalla de ayuda la cual se muestra al presionar F10 sobre el campo.
+-Validación en campos monto máximo y mínimo: Si el monto mínimo es mayor al máximo se mostrara un mensaje de error.
+-Validación en campo Mda: Este campo solo debe de aceptar los datos que indica la pantalla de ayuda la cual se muestra al presionar F10 sobre el campo.
+-Validación en campo cuenta: Este campo solo debe de aceptar los datos que indica la pantalla de ayuda la cual se muestra al presionar F10 sobre el campo.
+-Validación en campo IVA: Este campo solo acepta los valores "S" y "N" de lo contrario se mostrara un mensaje de error.
+-Validación en campo 'S': Este campo solo acepta el valor "X" de lo contrario se mostrara un mensaje de error. 
